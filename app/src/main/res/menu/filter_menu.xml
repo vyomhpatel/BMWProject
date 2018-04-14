@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/filter_name"
+        android:title="Name"/>
+        />
+    <item
+        android:id="@+id/filter_arrival"
+        android:title="Arrival Time"/>
+        />
+    <item
+        android:id="@+id/filter_distance"
+        android:title="Distance"/>
+
+</menu>
